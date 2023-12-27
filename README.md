@@ -7,7 +7,7 @@ This is a Python script that allows you to convert text to binary and binary bac
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/TextToBinaryAndBinaryToText.git
+    git clone https://github.com/konprtk/TextToBinaryAndBinaryToText.git
     ```
 
 2. Navigate to the project directory:
